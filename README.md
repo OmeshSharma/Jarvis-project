@@ -1,1 +1,2 @@
-# Jarvis-project
+# Jarvis-project 
+Working on the Jarvis project was a great hands-on experience where I built a basic virtual assistant using Python. Through this project, I explored and implemented libraries like speech recognition, pyttsx3 for text-to-speech, and datetime, along with webbrowser and os for system-level operations. I also learned how to integrate APIs and automate tasks like opening websites, fetching system info, or sending emails using voice commands. This project helped me strengthen my Python fundamentals and taught me how to handle real-time audio input and output. Overall, it was a fun and insightful way to learn how different Python libraries come together to build an interactive application.
